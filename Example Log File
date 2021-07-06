@@ -1,0 +1,131 @@
+Executing with parameters:
+-i p2p-Gnutella08.txt
+-p 7070
+-o pathToLogFile
+-s 100
+-x 150
+Sat Jun 27 16:47:13 2020 :	Loading graph...
+Sat Jun 27 16:47:13 2020 :	Graph loaded in 0.44 seconds with 6301 nodes and 20778 edges.
+Sat Jun 27 16:47:14 2020 :	A pool of 100 threads has been created
+Sat Jun 27 16:47:14 2020 :	Thread #3: waiting for connection
+Sat Jun 27 16:47:14 2020 :	Thread #6: waiting for connection
+Sat Jun 27 16:47:14 2020 :	Thread #11: waiting for connection
+Sat Jun 27 16:47:15 2020 :	Thread #1: waiting for connection
+Sat Jun 27 16:47:15 2020 :	Thread #4: waiting for connection
+Sat Jun 27 16:47:15 2020 :	Thread #9: waiting for connection
+Sat Jun 27 16:47:15 2020 :	Thread #19: waiting for connection
+Sat Jun 27 16:47:15 2020 :	Thread #0: waiting for connection
+Sat Jun 27 16:47:16 2020 :	Thread #22: waiting for connection
+Sat Jun 27 16:47:16 2020 :	Thread #21: waiting for connection
+Sat Jun 27 16:47:17 2020 :	Thread #35: waiting for connection
+Sat Jun 27 16:47:17 2020 :	Thread #29: waiting for connection
+Sat Jun 27 16:47:17 2020 :	Thread #37: waiting for connection
+Sat Jun 27 16:47:17 2020 :	Thread #7: waiting for connection
+Sat Jun 27 16:47:18 2020 :	Thread #41: waiting for connection
+Sat Jun 27 16:47:18 2020 :	Thread #17: waiting for connection
+Sat Jun 27 16:47:18 2020 :	Thread #47: waiting for connection
+Sat Jun 27 16:47:18 2020 :	Thread #15: waiting for connection
+Sat Jun 27 16:47:19 2020 :	Thread #49: waiting for connection
+Sat Jun 27 16:47:19 2020 :	Thread #16: waiting for connection
+Sat Jun 27 16:47:19 2020 :	Thread #5: waiting for connection
+Sat Jun 27 16:47:19 2020 :	Thread #18: waiting for connection
+Sat Jun 27 16:47:19 2020 :	Thread #10: waiting for connection
+Sat Jun 27 16:47:20 2020 :	Thread #60: waiting for connection
+Sat Jun 27 16:47:20 2020 :	Thread #56: waiting for connection
+Sat Jun 27 16:47:20 2020 :	Thread #64: waiting for connection
+Sat Jun 27 16:47:20 2020 :	Thread #62: waiting for connection
+Sat Jun 27 16:47:21 2020 :	Thread #72: waiting for connection
+Sat Jun 27 16:47:22 2020 :	Thread #79: waiting for connection
+Sat Jun 27 16:47:22 2020 :	Thread #77: waiting for connection
+Sat Jun 27 16:47:22 2020 :	Thread #82: waiting for connection
+Sat Jun 27 16:47:22 2020 :	Thread #27: waiting for connection
+Sat Jun 27 16:47:22 2020 :	Thread #12: waiting for connection
+Sat Jun 27 16:47:23 2020 :	Thread #88: waiting for connection
+Sat Jun 27 16:47:23 2020 :	Thread #91: waiting for connection
+Sat Jun 27 16:47:23 2020 :	Thread #90: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #96: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #31: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #94: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #14: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #2: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #33: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #38: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #39: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #42: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #43: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #45: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #44: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #28: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #40: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #13: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #51: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #50: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #52: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #48: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #46: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #8: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #54: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #55: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #58: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #59: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #61: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #57: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #53: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #63: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #23: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #65: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #66: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #67: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #20: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #26: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #71: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #69: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #76: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #25: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #75: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #68: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #70: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #74: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #73: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #78: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #81: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #80: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #83: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #24: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #85: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #84: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #86: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #87: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #95: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #34: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #92: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #93: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #98: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #97: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #30: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #89: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #32: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #99: waiting for connection
+Sat Jun 27 16:47:24 2020 :	Thread #36: waiting for connection
+Sat Jun 27 16:47:36 2020 :	A connection has been delegated to thread id #83, system load 1.00%
+Sat Jun 27 16:47:36 2020 :	Thread #83: searching database for a path from node 0 to node 10
+Sat Jun 27 16:47:36 2020 :	Thread #83: no path in database, calculating 0->10
+Sat Jun 27 16:47:36 2020 :	Thread #83: path calculated: 0->10 
+Sat Jun 27 16:47:36 2020 :	Thread #83: responding to client and adding path to database
+Sat Jun 27 16:47:43 2020 :	A connection has been delegated to thread id #86, system load 1.00%
+Sat Jun 27 16:47:43 2020 :	Thread #86: searching database for a path from node 0 to node 150
+Sat Jun 27 16:47:43 2020 :	Thread #86: no path in database, calculating 0->150
+Sat Jun 27 16:47:43 2020 :	Thread #86: path calculated: 0->3->1287->331->335->141->150 
+Sat Jun 27 16:47:43 2020 :	Thread #86: responding to client and adding path to database
+Sat Jun 27 16:47:55 2020 :	A connection has been delegated to thread id #77, system load 1.00%
+Sat Jun 27 16:47:55 2020 :	Thread #77: searching database for a path from node 0 to node 241
+Sat Jun 27 16:47:55 2020 :	Thread #77: no path in database, calculating 0->241
+Sat Jun 27 16:47:55 2020 :	Thread #77: path calculated: 0->5->127->175->3066->926->241 
+Sat Jun 27 16:47:55 2020 :	Thread #77: responding to client and adding path to database
+Sat Jun 27 16:50:06 2020 :	A connection has been delegated to thread id #15, system load 1.00%
+Sat Jun 27 16:50:06 2020 :	Thread #15: searching database for a path from node 145 to node 387
+Sat Jun 27 16:50:06 2020 :	Thread #15: no path in database, calculating 145->387
+Sat Jun 27 16:50:06 2020 :	Thread #15: path calculated: 145->149->250->1389->1390->387 
+Sat Jun 27 16:50:06 2020 :	Thread #15: responding to client and adding path to database
+Sat Jun 27 16:59:22 2020 :	Termination signal (SIGINT) received, waiting for ongoing threads to complete.
+Sat Jun 27 16:59:27 2020 :	All threads have terminated, server shutting down.
